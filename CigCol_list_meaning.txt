@@ -1,0 +1,256 @@
+ CIGEVER : 
+ ever smoked a cig
+ 1 = yes
+ 2 =  no
+ 
+ CIGOFRSM : 
+ if best friend offered, would you smoke cig
+ 1 = def yes
+ 2 = prob yes
+ 3 = prob not
+ 4 = def not
+ 94 = idk
+ 97 = refused
+ 99 = legit skip
+ 
+ CIGWILYR :
+ do you think you'll smoke a cig in next 12 mos
+ 1 = def yes
+ 2 = prob yes
+ 3 = prob not
+ 4 = def not
+ 85 = bad data logically assigned
+ 94 = idk
+ 97 = refused
+ 99 = legit skip
+ 
+ CIGTRY :
+ age when first smoked a cig
+ range = 1 - 65
+ 985 = bad data logically assigned
+ 991 = never used cigs
+ 994 = idk
+ 997 = refused
+ 
+ CIGYFU :
+ 
+ 
+ CIGMFU :
+ 
+ 
+ CIGREC :
+
+ 
+ CIG30USE :
+ how many days smoked cig in past 30 days
+ range = 1 - 30
+ 85 = bad data logically assigned
+ 91 = never used cigs
+ 93 = did not use cigs in the passt 30 days
+ 94 = idk
+ 97 = refused
+ 98 =  blank (no answer)
+ 
+ CG30EST :
+ best est of # days smoked cig past 30 days
+ 1 = 1 or 2 days
+ 2 = 3 to 5 days
+ 3 = 6 to 9 days
+ 4 = 10 to 19 days
+ 5 = 20 to 29 days
+ 91 = never used cigs
+ 93 = did not use cigs in the passt 30 days
+ 94 = idk
+ 97 = refused
+ 98 =  blank (no answer)
+ 99 = legit skip
+ 
+ 
+ CIG30AV :
+ 
+ 
+ CIG30BR2 :
+ 
+ 
+ CIG30TPE :
+ 
+ 
+ CIG30MEN :
+ 
+ 
+ CIG30MLN :
+ 
+ 
+ CIG30RO2 :
+ 
+ 
+ CIGDLYMO :
+ 
+ 
+ CIGAGE :
+ 
+ 
+ CIGDLYFU :
+ 
+ 
+ CIGDLMFU :
+ 
+ 
+ CIG100LF :
+ 
+ 
+ CIGAREVR :
+ ever smoked part or all of cigar
+ 1 = yes
+ 2 = no
+ 94 = idk
+ 97 = refused
+ 
+ CIGARTRY :
+ 
+ 
+ CIGARYFU :
+ 
+ 
+ CIGARMFU :
+ 
+ 
+ CIGARREC :
+ 
+ 
+ CGR30USE :
+ 
+ 
+ CGR30BR2 :
+ 
+ 
+ CIGFLAG :
+ 
+ 
+ CIGYR :
+ 
+ 
+ CIGMON :
+ 
+ 
+ CGRFLAG :
+ 
+ 
+ CGRYR :
+ 
+ 
+ CGRMON :
+ 
+ 
+ CIGALCMO :
+ 
+ 
+ CIGAFU :
+ 
+ 
+ CIGMDAYS :
+ 
+ 
+ CIGPDAY :
+ 
+ 
+ CIG1PACK :
+ 
+ 
+ CIGAVGD :
+ 
+ 
+ CIGAVGM :
+ 
+ 
+ CIGIRTBL :
+ 
+ 
+ CIGCRAVE :
+ 
+ 
+ CIGCRAGP :
+ 
+ 
+ CIGINCTL :
+ 
+ 
+ CIGAVOID :
+ 
+ 
+ CIGFNSMK :
+ 
+ 
+ CIGFNLKE :
+ 
+ 
+ CIGPLANE :
+ 
+ 
+ CIGRNOUT :
+ 
+ 
+ CIGREGDY :
+ 
+ 
+ CIGREGWK :
+ 
+ 
+ CIGREGNM :
+ 
+ 
+ CIGNMCHG :
+ 
+ 
+ CIGSVLHR :
+ 
+ 
+ CIGINFLU :
+ 
+ 
+ CIGNOINF :
+ 
+ 
+ CIGINCRS :
+ 
+ 
+ CIGSATIS :
+ 
+ 
+ CIGLOTMR :
+ 
+ 
+ CIGWAKE :
+ 
+ 
+ CIGAGLST :
+ 
+ 
+ CIGYLU :
+ 
+ 
+ CIGMLU :
+ 
+ 
+ CIGDLLST :
+ 
+ 
+ CIGDLYLU :
+ 
+ 
+ CIGDLMLU :
+ 
+ 
+ CGRAGLST :
+ 
+ 
+ CIGARYLU :
+ 
+ 
+ CIGARMLU :
+ 
+ 
+ CIGYRBFR :
+ 
+ 
+ 
